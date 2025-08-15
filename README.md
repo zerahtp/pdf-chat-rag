@@ -49,6 +49,9 @@ pip install -r requirements.txt
 GEMINI_API_KEY=your_google_gemini_api_key
 ```
 
+<img width="1899" height="979" alt="image" src="https://github.com/user-attachments/assets/9140e545-9f2d-4938-bae6-c57e3655411f" />
+
+
 4. Uygulamayı başlatın:
 ```bash
 streamlit run app.py
